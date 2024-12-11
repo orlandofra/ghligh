@@ -1,0 +1,6 @@
+github.com/orlandofra/go-poppler v0.0.0-20241211082126-cbb8d8dfc31c h1:M2Y4kJVetTgVRTc5kHLAOyH6u5pcneqWvyIvQxrxncU=
+github.com/orlandofra/go-poppler v0.0.0-20241211082126-cbb8d8dfc31c/go.mod h1:PeLRgc3NmulBtD2VfF4zUQhH5fS+RDH5KOWsMfa+l9g=
+github.com/orlandofra/go-poppler v0.0.0-20241211141757-2470383648aa h1:cXd80UxysfK05bF094pMTgkqbSN2eWWWVM4wN09bVe0=
+github.com/orlandofra/go-poppler v0.0.0-20241211141757-2470383648aa/go.mod h1:PeLRgc3NmulBtD2VfF4zUQhH5fS+RDH5KOWsMfa+l9g=
+github.com/ungerik/go-cairo v0.0.0-20240304075741-47de8851d267 h1:KA55kgg61iraQP4wSKIFRHwHIgDqim2Tvh8EXn7Udxw=
+github.com/ungerik/go-cairo v0.0.0-20240304075741-47de8851d267/go.mod h1:yLTJg56omDJ+JVxZ5whpCrZgQdaSs+OBdFa+X6ViJcI=
