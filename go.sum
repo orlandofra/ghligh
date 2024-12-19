@@ -1,0 +1,4 @@
+github.com/cheggaaa/go-poppler v0.0.5 h1:KjUNzE9HXcp46/6FXZKnL4WSvp/j+dJTjlnXj3xinY4=
+github.com/cheggaaa/go-poppler v0.0.5/go.mod h1:lw99/FtbqY/iD6peEN6rYVfokv0qdEXfAtURmrYVfFE=
+github.com/ungerik/go-cairo v0.0.0-20210317133935-984b32e6bac6 h1:KrKqo3an56mwfObaZtHlyhN+IVDyw1XaoIT5Cr2Ttvk=
+github.com/ungerik/go-cairo v0.0.0-20210317133935-984b32e6bac6/go.mod h1:yLTJg56omDJ+JVxZ5whpCrZgQdaSs+OBdFa+X6ViJcI=
