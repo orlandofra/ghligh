@@ -1,0 +1,20 @@
+* browse *
+
+- provare input capture anche fuori
+
+- command execution
+
+- serve metodo per ottenere testo con sottolineature
+
+
+- visual mode per navigarci dentro
+ [w] [W] sposta il cursore di una word
+
+## TODO immetere label
+// SetLabel sets the text to be displayed before the text view.
+func (t *TextView) SetLabel(label string) *TextView {
+	t.label = label
+	return t
+}
+
+
